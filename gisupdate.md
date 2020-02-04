@@ -5,7 +5,7 @@
 * First drone-derived detailed map of Whipps Ledges underway to support Outdoor Experiences:
   ![](https://raw.githubusercontent.com/cleveland-metroparks/GIS-Update/master/imgs/3D/thumbnail_Whipps2.png)
 * 3D mapping of rhino exhibit for monitoring exhibit use
-  * ![](https://raw.githubusercontent.com/cleveland-metroparks/GIS-Update/master/imgs/3D/rhinoexhibit.png)
+  * ![](https://raw.githubusercontent.com/cleveland-metroparks/GIS-Update/master/imgs/3D/rhinoexhibit.PNG)
 * ### RE360 Project
   * mapping 360 camera similar to Google StreetView is underway in collaboration with a Case Engineering Capstone (3 students). This will aid in 3D mapping things like the orangutan exhibit, potentially stream corridors for modeling stream flows and understanding erosion. The project is expected to be complementary to ITs 360 trail view project.
   * #### 3D View of West Creek
