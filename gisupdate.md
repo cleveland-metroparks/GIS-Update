@@ -1,10 +1,13 @@
-# GIS Pupdate
+# GIS Update
 
 ## Major themes and developments
-* Update to CM Facilities database to include Zoo inventory
-* First drone-derived detailed map of Whipps Ledges underway to support Outdoor Experiences:
+* ### Update to CM Facilities database to include Zoo inventory
+  * In contract and underway
+* ### TreeHealth App monitoring in conjuction with Kent State
+* ### Whipps Ledges Map
+  * First drone-derived detailed map of Whipps Ledges underway to support Outdoor Experiences:
   ![](https://raw.githubusercontent.com/cleveland-metroparks/GIS-Update/master/imgs/3D/thumbnail_Whipps2.png)
-* 3D mapping of rhino exhibit for monitoring exhibit use
+* ### 3D mapping of rhino exhibit for monitoring exhibit use
   * ![](https://raw.githubusercontent.com/cleveland-metroparks/GIS-Update/master/imgs/3D/rhinoexhibit.PNG)
 * ### RE360 Project
   * mapping 360 camera similar to Google StreetView is underway in collaboration with a Case Engineering Capstone (3 students). This will aid in 3D mapping things like the orangutan exhibit, potentially stream corridors for modeling stream flows and understanding erosion. The project is expected to be complementary to ITs 360 trail view project.
@@ -41,91 +44,62 @@
 - NR Invasive Plant Maps - map
 - Other small requests
 
-#Flights
-+West Creek wetland; done and processed
-+Rhino Yard; done and processed
+## India
+* Flights
+  + West Creek wetland; done and processed
+  + Rhino Yard; done and processed
 
-#Development
-+Geoserver Copy is running
-+Password Protection added for NR R shiny server
-+NR Nursery automation code completed (?); ready for testing
-+Met with developers working on the TreeHealth App in Kent; awaiting testable product
+* Development
+  + Geoserver Copy is running
+  + Password Protection added for NR R shiny server
+  + NR Nursery automation code completed (?); ready for testing
+  + Met with developers working on the TreeHealth App in Kent; awaiting testable product
 
-#Travel
-+Abstracts for talks at FOSS4G and NEOGEO have been submitted; awaiting confirmation
+* Travel
+  + Abstracts for talks at FOSS4G and NEOGEO have been submitted; awaiting confirmation
 
-#Misc.
-+Attended a Radio Club Meeting with Kazdan; will likely pursue a radio license
-+Met with CWRU Students and reviewed RE360 project scope; set up bi-weekly(every other week) meetings with the group
+* Misc.
+  + Attended a Radio Club Meeting; will likely pursue a radio license to facilitate better drone use opportunities
+  + Met with CWRU Students and reviewed RE360 project scope; set up bi-weekly(every other week) meetings with the group
 
-#To-Do
-+Debug Geoserver copy
-+Work on pushing NR Nursery data to GitHub
-+ArduSimple Setup
-+Continue development of map app
-+ AI tree canopy cover project
+* To-Do
+  + Debug Geoserver copy
+  + Work on pushing NR Nursery data to GitHub
+  + ArduSimple Setup
+  + Continue development of map app
+  + AI tree canopy cover project
 
+* Development Completed
+  + Set up new Virtualbox development environment for openlayers app
+  + Set-up programming/automation environment for dealing with NR nursery app data collection/addition
+  + Rshiny Server stuff (a lot of stuff...)
+  + Updated/Upgraded servers
 
-  # Development Completed
-+ Set up new Virtualbox development environment for openlayers app
-+ Set-up programming/automation environment for dealing with NR nursery app data collection/addition
-+ Rshiny Server stuff (a lot of stuff...)
-+ Updated/Upgraded servers
+* Development To-Do
+  + Finish NR nursery website update process
+  + Address specific issues with NR nursery website brought up by Leticia
+  + Work through parts of openlayers app (Geoext, ExtJS, Sencha, Openlayers)
+  + Figure out Rshiny mixed content issue
 
-# Development To-Do
-+ Finish NR nursery website update process
-+ Address specific issues with NR nursery website brought up by Leticia
-+ Work through parts of openlayers app (Geoext, ExtJS, Sencha, Openlayers)
-+ Figure out Rshiny mixed content issue
+* Flights To-Do
+  + Clean Ohio Flight
+  + Nimbus Test Flight in Astorhurst
+  + Mavic Mini Test Flight
+  + Hilliard Bridge Mapping
+  + Wild Winter Lights Flight (VO Test and Answer Sheet is Done)
 
-# Flights To-Do
-+ Clean Ohio Flight
-+ Nimbus Test Flight in Astorhurst
-+ Mavic Mini Test Flight
-+ Hilliard Bridge Mapping
-+ Wild Winter Lights Flight (VO Test and Answer Sheet is Done)
-
-# Other Drone To-do
-+ Charge drone batteries
-+ Nimbus parts inventory
-+ Nimbus ardupilot setup/firmware update
-+ Post-Processing of Tutorial Audio/Subtitles
-+ Setup E-flite
-
-# ADA
-  - Fulcrum reports and simplified reports distributed to Champions for Affiliate meetings
-
-# Facilities DB
-  - Met with Ryan to reviewed all "Other" values input into Fulcrum during assessments. The purpose being to clean up the data (eliminate redundancy, simplify overly detailed responses, etc)
-  - Exported all data from fulcrum and loaded tabular data to a local database to begin identifying missing, inconsistent or invalid responses. Once review is complete, Bialosky will have some additional office work to complete the inventory.
-
-# Legal
-  - Still need to load several datasets to the Land Protection page including those requiring password protection
-  - Meeting with Joe Lambert soon to build out more Fulcrum forms for other assessments (Playground Inspection form)
-
-# Park Ops
-  - Cleaned up sidewalk inspection data and mapped out Big Creek Parkway sidewalk condition
-
-# NR
-  - Deer Management mailing sent out for Acacia and South Chagrin Reservations in November
-  - Setting up a work session with John to improve and scale methodology of "Core Areas" dataset
-
-# Misc
-  - 2019 imagery has been tiled and prepped for use on the print server
-  - Created WCC holdings dataset from Derek's spreadsheet, passed to Brandon for acquisition animation request
-
-# Map production
-* CEI Property maps - Legal
-* West Creek Trail Map - VisCom
-* Large Print Wall Map - NR
-* Lake Erie Water Trail Maps
-* Whipp's Ledges Climbing Map - OE
-* Bridle Trail Seasonal Closure Maps - Park Ops
-* Watershed Stewardship Center Volunteer Participants - Volunteer Services
+* Other Drone To-do
+  + Charge drone batteries
+  + Nimbus parts inventory
+  + Nimbus ardupilot setup/firmware update
+  + Post-Processing of Tutorial Audio/Subtitles
+  + Setup E-flite
 
 # Travel and Presentations
-* Understanding Risk West and Central Africa and State of the Map Africa workshops and presentations
+* OpenStreetMap Mali OpenDroneMap Workshop, February 21-27
+* Memoirs Program, Rwanda, February 28 - March 11
 
+# GIS Pupdate:
 ![](https://media.giphy.com/media/sE6jQonM5S8mI/giphy.gif)
 
 `Credit for finding gif goes to India Johnson`
