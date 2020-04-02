@@ -1,6 +1,9 @@
 # GIS Update
 
 ## Major themes and developments
+* ### Update to Cleveland Metroparks App
+* ### Preliminary application to 
+
 * ### Update to CM Facilities database to include Zoo inventory
   * In contract and underway
 * ### TreeHealth App monitoring in conjuction with Kent State
