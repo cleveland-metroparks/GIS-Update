@@ -2,6 +2,13 @@
 
 ## Major themes and developments
 * ### Update to Cleveland Metroparks App
+
+* ### 3D updates
+  * #### Squires Castle Rendering
+![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/3D/SquiresCastle.png?raw=true)
+  * #### Squires Castle in Minecraft form:
+![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/3D/IMG_7929.PNG?raw=true)
+
 * ### Preliminary application to 
 
 * ### Update to CM Facilities database to include Zoo inventory
