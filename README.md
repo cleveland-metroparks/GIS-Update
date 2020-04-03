@@ -6,6 +6,8 @@
 * ### Mapping requests
   * #### Road Closures
 ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/Meadows_Dr_Closed-01.jpg?raw=true)  
+* ### Community Confluence Flights
+![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/planning/detroitbridge.gif?raw=true)
 * ### 3D updates
   * #### Squires Castle Rendering
 ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/3D/SquiresCastle.png?raw=true)
