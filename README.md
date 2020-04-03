@@ -31,25 +31,25 @@
 
 ## Tom
 - Facilities DB
-  - Awaiting completion of outstanding CM facilities database items
-  - Kickoff meeting for Zoo scheduled, awaiting instruction
+  - Sent info to Zoo staff to review for Fulcrum App considerations (i.e. review domain values for various categories)
 
 - Legal
-  - Completed boundary audit in conjunction with Stephanie and Jarrod
-  - Safety: circling back around to creating Fulcrum App for PERRP facility inspections
-
-- Park Ops
-  - Fulcrum App created for Trails Division: inventory of trail signage
+  - Boundaries reviewed with Legal/NR/Survey and sent to The Climate Trust to determine project area for carbon credits
+  - Safety: PERRP facility inspections app operational
 
 - Marketing
-  - Reviewed list of activities for attractions and facilities across the park district
-  - Have detailed spreadsheet of edits for Bedford Reservation (worked with Rob), awaiting meeting with Linsey to review
+  - Updated Activity info sent to Linsey for North Chagrin and Bedford Reservations
 
-- Misc
-  - Started migrating layers from old GIS server into new PostGIS database and new instance of Geoserver (very early in process)
-  - Created new system-wide DEM from latest LiDAR data
-  - Started creating smoothed Reservation contour layers from new DEM (maybe 4 Reservations complete)
-  - App: updated zoom bounding boxes for Reservations
+- App
+  - Updated Activities data for use in the app
+  - Compiling list of corrections to be made in ITS database
+
+- NR
+  - Map made to share with LEAP for spotted lanternfly awareness (might be involved later with identifying park sites to check for the bug)
+
+- Misc GIS
+  - Data migration to new server (maybe 60% complete)
+  - Started creating smoothed Reservation contour layers from new DEM (maybe 4 Reservations complete - SAME)
 
 ## Brandon
 - Astorhurst disc golf map/plan update
