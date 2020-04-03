@@ -1,7 +1,7 @@
 # GIS Update
 
 ## Major themes and developments
-* ### Update to Cleveland Metroparks App
+* ### Update to Cleveland Metroparks App with improved and more complete data
 ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/planning/appimprovements.gif?raw=true)
 * ### Mapping requests
   * #### Road Closures
