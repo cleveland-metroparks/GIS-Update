@@ -69,6 +69,22 @@
 + Following up with Pycon 2020 Online 
 
 
-# Travel and Presentations
+# Stephen
+
+## Infrastructure
+* Updating servers for vulnerability scan
+* Fixed blocking issues on new maps print server
+
+## Funding opportunities
+* Innovation Challenge Fund 2020
+ * Potential partners
+  * World Resources Institute
+  * Deltares
+  * Humanitarian OpenStreetMap Team
+  * GPS Renewables
+ * Video demonstrating OpenDroneMap capability underway
+ 
+## Travel and Presentations
 * OpenStreetMap Mali OpenDroneMap Workshop, February 21-27
 * Memoirs Program, Rwanda, February 28 - March 11
+* World Bank meeting originally scheduled for May now moved to November
