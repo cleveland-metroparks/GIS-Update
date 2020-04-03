@@ -2,7 +2,7 @@
 
 ## Major themes and developments
 * ### Update to Cleveland Metroparks App
-
+![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/planning/appimprovements.gif?raw=true)
 * ### Mapping requests
   * #### Road Closures
 ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/Meadows_Dr_Closed-01.jpg?raw=true)  
@@ -12,9 +12,7 @@
   * #### Squires Castle in Minecraft form:
 ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/3D/IMG_7929.PNG?raw=true)
 
-* ### Preliminary application to 
 
-* ### TreeHealth App monitoring in conjuction with Kent State
 
 ## Tom
 - Facilities DB
