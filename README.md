@@ -52,10 +52,9 @@
   - App: updated zoom bounding boxes for Reservations
 
 ## Brandon
-- Astorhurst Disc Golf - map/graphic/data
-- Whipps Ledges - data/3D model
-- NR Invasive Plant Maps - map
-- Other small requests
+- Astorhurst disc golf map/plan update
+- Road closure maps for Rocky River, Brecksville, and South Chagrin
+- 3d Modeling of historic structures, Look About Lodge
 
 ## India
 
