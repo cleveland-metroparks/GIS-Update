@@ -3,6 +3,9 @@
 ## Major themes and developments
 * ### Update to Cleveland Metroparks App
 
+* ### Mapping requests
+  * #### Road Closures
+![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/Meadows_Dr_Closed-01.jpg?raw=true)  
 * ### 3D updates
   * #### Squires Castle Rendering
 ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/3D/SquiresCastle.png?raw=true)
@@ -55,61 +58,31 @@
 - Other small requests
 
 ## India
+
 * Flights
-  + West Creek wetland; done and processed
-  + Rhino Yard; done and processed
++ Flew the Lion Lot and processed the data- Request from Jared (I should actually let Jared know this is done, shouldn't I?)
++ Scheduled:
+  + E.55th Marina -John C.
+  + Part of Rocky River North - Sean
+  + Wendy Park - Sean
++ Consulted with FAA about best way to move forward with the Lakeshore and Rocky River flights
++ Applying for waivers to fly zeroed out portion of Rocky River (Sean) and rest of the Lakeshore for CHEERS (Kelly)
 
 * Development
-  + Geoserver Copy is running
-  + Password Protection added for NR R shiny server
-  + NR Nursery automation code completed (?); ready for testing
-  + Met with developers working on the TreeHealth App in Kent; awaiting testable product
++ Completed automated system for adding new nurseries to LEAP website
+  + Need to clean and refactor code for future maintainability
++ Added the 17 new nurseries to the LEAP website map
++ Working on an automated process for updating the Excel Sheet listing the nurseries
++ Regularly checking for nursery updates
 
-* Travel
-  + Abstracts for talks at FOSS4G and NEOGEO have been submitted; awaiting confirmation
+* Other Projects:
++ Working on ODM Docs Organization 
++ Rescheduled Statistics Lunch Share
++ Planning a presentation for the above Lunch Share
++ Following up with RE360 Project
++ Following up with Pycon 2020 Online 
 
-* Misc.
-  + Attended a Radio Club Meeting; will likely pursue a radio license to facilitate better drone use opportunities
-  + Met with CWRU Students and reviewed RE360 project scope; set up bi-weekly(every other week) meetings with the group
-
-* To-Do
-  + Debug Geoserver copy
-  + Work on pushing NR Nursery data to GitHub
-  + ArduSimple Setup
-  + Continue development of map app
-  + AI tree canopy cover project
-
-* Development Completed
-  + Set up new Virtualbox development environment for openlayers app
-  + Set-up programming/automation environment for dealing with NR nursery app data collection/addition
-  + Rshiny Server stuff (a lot of stuff...)
-  + Updated/Upgraded servers
-
-* Development To-Do
-  + Finish NR nursery website update process
-  + Address specific issues with NR nursery website brought up by Leticia
-  + Work through parts of openlayers app (Geoext, ExtJS, Sencha, Openlayers)
-  + Figure out Rshiny mixed content issue
-
-* Flights To-Do
-  + Clean Ohio Flight
-  + Nimbus Test Flight in Astorhurst
-  + Mavic Mini Test Flight
-  + Hilliard Bridge Mapping
-  + Wild Winter Lights Flight (VO Test and Answer Sheet is Done)
-
-* Other Drone To-do
-  + Charge drone batteries
-  + Nimbus parts inventory
-  + Nimbus ardupilot setup/firmware update
-  + Post-Processing of Tutorial Audio/Subtitles
-  + Setup E-flite
 
 # Travel and Presentations
 * OpenStreetMap Mali OpenDroneMap Workshop, February 21-27
 * Memoirs Program, Rwanda, February 28 - March 11
-
-# GIS Pupdate:
-![](https://media.giphy.com/media/sE6jQonM5S8mI/giphy.gif)
-
-`Credit for finding gif goes to India Johnson`
