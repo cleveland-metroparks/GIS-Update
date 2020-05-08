@@ -40,16 +40,16 @@
   - Started creating smoothed Reservation contour layers from new DEM (maybe 4 Reservations complete - SAME)
 
 ## Brandon
-* BUILD GRANT
+- BUILD GRANT
  - Continue rebuilding the overall map project
  - Update Chagrin Valley Connector alignment
  - Work with Sara to develop maps for grant application
-* Hawthorn Valley
+- Hawthorn Valley
  - Develop maps/graphics
  - Create a video from existing drone footage to show the overall property, highlight specific areas to show their importance.
-* Final edits to Lake Erie Water Trail Map and Sign
-* Update no mow areas
-* 3D Modeling
+- Final edits to Lake Erie Water Trail Map and Sign
+- Update no mow areas
+- 3D Modeling
  - Finish Look about Lodge
 
 ## India
