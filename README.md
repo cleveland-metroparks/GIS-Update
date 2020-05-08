@@ -54,28 +54,21 @@
 
 ## India
 
-* Flights
-+ Flew the Lion Lot and processed the data- Request from Jared (I should actually let Jared know this is done, shouldn't I?)
-+ Scheduled:
-  + E.55th Marina -John C.
-  + Part of Rocky River North - Sean
-  + Wendy Park - Sean
-+ Consulted with FAA about best way to move forward with the Lakeshore and Rocky River flights
-+ Applying for waivers to fly zeroed out portion of Rocky River (Sean) and rest of the Lakeshore for CHEERS (Kelly)
-
-* Development
-+ Completed automated system for adding new nurseries to LEAP website
-  + Need to clean and refactor code for future maintainability
-+ Added the 17 new nurseries to the LEAP website map
-+ Working on an automated process for updating the Excel Sheet listing the nurseries
-+ Regularly checking for nursery updates
-
-* Other Projects:
-+ Working on ODM Docs Organization 
-+ Rescheduled Statistics Lunch Share
-+ Planning a presentation for the above Lunch Share
-+ Following up with RE360 Project
-+ Following up with Pycon 2020 Online 
+* Flights + Authorizations
+    Wendy Park 200 ft authorization granted along with DJi equivalent
+    Wendy Park flown for construction images and video + Wendy Park bridge for Eric
+    Lakeshore CHEERS area FAA auth granted (200/100 ft mixed area) + DJI auth granted
+    Hawthorne Flights for Real Estate complete
+    On calendar: Zoo Admin, E.55th Marina, Lakeshore Flights, Euclid Beach Photo recreations, Garfield Pond/Mill/Wolf Creek
+* Developer Work
+    Pycon follow-up
+    Wrapped up NR nursery project
+    Security protocols implemented
+    Security Updates for Servers
+* Misc.
+    Wendy Park Video Cut posted to Youtube
+    Prepping presentation for Stats Lunch
+    Continuing education coursework (Python)
 
 
 # Stephen
