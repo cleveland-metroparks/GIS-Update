@@ -1,21 +1,12 @@
 # GIS Update
 
 ## Major themes and developments
-* ### Update to Cleveland Metroparks App with improved and more complete data
-![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/planning/appimprovements.gif?raw=true)
- * See https://youtu.be/79wkDW-rPRQ?t=83
+* ### Update to Cleveland Metroparks App: testing of 360 camera imports in app
+![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/app/app360.gif?raw=true)
+
 * ### Mapping requests
-  * #### Road Closures
-![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/Meadows_Dr_Closed-01.jpg?raw=true)  
 * ### Community Confluence Flights
-![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/planning/detroitbridge.gif?raw=true)
 * ### 3D updates
-  * #### Squires Castle Rendering
-![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/3D/SquiresCastle.png?raw=true)
-  * #### Squires Castle in Minecraft form:
-![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/3D/IMG_7929.PNG?raw=true)
-
-
 
 ## Tom
 - P&D
@@ -76,19 +67,17 @@
 # Stephen
 
 ## Infrastructure
-* Updating servers for vulnerability scan
+* Updated servers for vulnerability scan
 * Fixed blocking issues on new maps print server
+  * Porting over datasets for display on new pring server
 
 ## Funding opportunities
-* Innovation Challenge Fund 2020
- * Potential partners
-  * World Resources Institute
-  * Deltares
-  * Humanitarian OpenStreetMap Team
-  * GPS Renewables
- * Video demonstrating OpenDroneMap capability underway
- 
+* ~$50,000 in funding from World Bank Tanzania as extension to work in Zanzibar, unknown timeline
+* Possible project of unknown size opening up in northern Tanzania
+* ~~Innovation Challenge Fund 2020~~
+  * Challenge cancelled
+* Video demonstrating OpenDroneMap capability underway
+
 ## Travel and Presentations
-* OpenStreetMap Mali OpenDroneMap Workshop, February 21-27
-* Memoirs Program, Rwanda, February 28 - March 11
+* _Open source data processing with OpenDroneMap_ presented by Corey Snipes, one of our newer, local OpenDroneMap contributors will take place remotely at the 3-day DroneCamp short course on drone, June 23-25
 * World Bank meeting originally scheduled for May now moved to November
