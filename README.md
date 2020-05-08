@@ -55,21 +55,20 @@
 ## India
 
 * Flights + Authorizations
-    Wendy Park 200 ft authorization granted along with DJi equivalent
-    Wendy Park flown for construction images and video + Wendy Park bridge for Eric
-    Lakeshore CHEERS area FAA auth granted (200/100 ft mixed area) + DJI auth granted
-    Hawthorne Flights for Real Estate complete
-    On calendar: Zoo Admin, E.55th Marina, Lakeshore Flights, Euclid Beach Photo recreations, Garfield Pond/Mill/Wolf Creek
+    * Wendy Park 200 ft authorization granted along with DJi equivalent
+    * Wendy Park flown for construction images and video + Wendy Park bridge for Eric
+    * Lakeshore CHEERS area FAA auth granted (200/100 ft mixed area) + DJI auth granted
+    * Hawthorne Flights for Real Estate complete
+    * On calendar: Zoo Admin, E.55th Marina, Lakeshore Flights, Euclid Beach Photo recreations, Garfield Pond/Mill/Wolf Creek
 * Developer Work
-    Pycon follow-up
-    Wrapped up NR nursery project
-    Security protocols implemented
-    Security Updates for Servers
+    * Pycon follow-up
+    * Wrapped up NR nursery project
+    * Security protocols implemented
+    * Security Updates for Servers
 * Misc.
-    Wendy Park Video Cut posted to Youtube
-    Prepping presentation for Stats Lunch
-    Continuing education coursework (Python)
-
+    * Wendy Park Video Cut posted to Youtube
+    * Prepping presentation for Stats Lunch
+    * Continuing education coursework (Python)
 
 # Stephen
 
