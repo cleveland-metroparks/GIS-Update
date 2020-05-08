@@ -8,8 +8,10 @@
       * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/app/app360.gif?raw=true)
 * ### 3D updates
 * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/3D/lal.jpg?raw=true)
-* ### Mapping requests
-* ### Community Confluence Flights
+* ### Infrastructure updates
+  * Porting print server over to new infrastructure for additional security and functionality, porting Real Estate Land Protection datasets first
+    * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/realestate/REinterface.jpg?raw=true)
+
 
 
 ## Tom
