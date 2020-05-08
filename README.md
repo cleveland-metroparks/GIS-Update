@@ -49,7 +49,7 @@
 ## India
 
 * Flights + Authorizations
-    * Wendy Park 200 ft authorization granted along with DJi equivalent
+    * Wendy Park 200ft authorization granted along with DJI equivalent
     * Wendy Park flown for construction images and video + Wendy Park bridge for Eric
     * Lakeshore CHEERS area FAA auth granted (200/100 ft mixed area) + DJI auth granted
     * Hawthorne Flights for Real Estate complete
@@ -76,7 +76,6 @@
 * Possible project of unknown size opening up in northern Tanzania
 * ~~Innovation Challenge Fund 2020~~
   * Challenge cancelled
-* Video demonstrating OpenDroneMap capability underway
 
 ## Travel and Presentations
 * _Open source data processing with OpenDroneMap_ presented by Corey Snipes, one of our newer, local OpenDroneMap contributors will take place remotely at the 3-day DroneCamp short course on drone, June 23-25
