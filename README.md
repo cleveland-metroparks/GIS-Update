@@ -41,16 +41,16 @@
 
 ## Brandon
 - BUILD GRANT
- - Continue rebuilding the overall map project
- - Update Chagrin Valley Connector alignment
- - Work with Sara to develop maps for grant application
+    - Continue rebuilding the overall map project
+    - Update Chagrin Valley Connector alignment
+    - Work with Sara to develop maps for grant application
 - Hawthorn Valley
- - Develop maps/graphics
- - Create a video from existing drone footage to show the overall property, highlight specific areas to show their importance.
+    - Develop maps/graphics
+    - Create a video from existing drone footage to show the overall property, highlight specific areas to show their importance.
 - Final edits to Lake Erie Water Trail Map and Sign
 - Update no mow areas
 - 3D Modeling
- - Finish Look about Lodge
+    - Finish Look about Lodge
 
 ## India
 
