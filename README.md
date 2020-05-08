@@ -18,26 +18,29 @@
 
 
 ## Tom
-- Facilities DB
-  - Sent info to Zoo staff to review for Fulcrum App considerations (i.e. review domain values for various categories)
+- P&D
+  - ADA Transition Plan: all updates have been compiled into a single spreadsheet. The master spreadsheet still needs to be corrected (phase column was out of sorts) and stripped of forumulas.
+  - BUILD Grant application: reviewed template cost-benefit anyalysis and prepping data in small section of Geagua County that would fall within the 1.5 mi buffer.
+  - Gas Wells: to date, incomplete findings from the documents I've looked through (i.e. wells in spreadsheet that are not placed in GIS files, info from spreadsheets not tied to GIS file). Need to pull the physical map book from Isaac's old office to see if that clears things up.
+  - Facilities DB: Zoo has been on hold, still happening this year?
 
-- Legal
-  - Boundaries reviewed with Legal/NR/Survey and sent to The Climate Trust to determine project area for carbon credits
-  - Safety: PERRP facility inspections app operational
+- Development
+  - Bike/Walkshed analysis around Padua-Parmadale Properties, confirmed suspicion of lower poverty rates
 
 - Marketing
-  - Updated Activity info sent to Linsey for North Chagrin and Bedford Reservations
+  - Updated Activity info sent for North Chagrin and Bedford Reservations: Linsey asked for GPS coordinates on a couple locations, getting those back shortly and then we should be good to move on to a new park
 
 - App
-  - Updated Activities data for use in the app
-  - Compiling list of corrections to be made in ITS database
+  - Keeping eye on road closures
 
-- NR
-  - Map made to share with LEAP for spotted lanternfly awareness (might be involved later with identifying park sites to check for the bug)
+- Real Estate
+  - Prioritizing porting over data to new server so new secure connection can be in place for next meeting
 
 - Misc GIS
+  - ODNR trails inventory: sent Tom Arbour the data as we have it but also reviewed his metadata and GDB templates. Format calls for formal inventory of trail names with descriptions and trailheads with various amenities coded. The former would be a good initiative to work with OE staff on making sure we have novel descriptions for trails across the park.
+  - RTA-Park Access analysis on hold, meeting with Angelo pushed back to June maybe. ITS did provide me with a way to export all programs with details like date/time which we plan to use in the analysis.
   - Data migration to new server (maybe 60% complete)
-  - Started creating smoothed Reservation contour layers from new DEM (maybe 4 Reservations complete - SAME)
+
 
 ## Brandon
 - BUILD GRANT
