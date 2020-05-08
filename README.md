@@ -1,8 +1,11 @@
 # GIS Update
 
 ## Major themes and developments
-* ### Update to Cleveland Metroparks App: testing of 360 camera imports in app
-![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/app/app360.gif?raw=true)
+* ### Update to Cleveland Metroparks App
+  * Input of closures
+    * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/app/closures.gif?raw=true)
+  * Testing of 360 camera imports in app:
+      * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/app/app360.gif?raw=true)
 
 * ### Mapping requests
 * ### Community Confluence Flights
@@ -10,16 +13,16 @@
 
 ## Tom
 - P&D
-  - ADA Transition Plan: all updates have been compiled into a single spreadsheet. The master spreadsheet still needs to be corrected (phase column was out of sorts) and stripped of forumulas.
-  - BUILD Grant application: reviewed template cost-benefit anyalysis and prepping data in small section of Geagua County that would fall within the 1.5 mi buffer.
-  - Gas Wells: to date, incomplete findings from the documents I've looked through (i.e. wells in spreadsheet that are not placed in GIS files, info from spreadsheets not tied to GIS file). Need to pull the physical map book from Isaac's old office to see if that clears things up.
-  - Facilities DB: Zoo has been on hold, still happening this year?
+  - ADA Transition Plan: all updates have been compiled into a single spreadsheet. The master spreadsheet still needs to be corrected (phase column was out of sorts) and stripped of formulas.
+  - BUILD Grant application: reviewed template cost-benefit analysis and prepping data in small section of Geauga County that would fall within the 1.5 mi buffer.
+  - Gas Wells: to date, incomplete findings from the documents . Need to pull the physical map book from Isaac's old office to see if that clears things up.
+  - Facilities DB: Zoo has been on hold.
 
 - Development
   - Bike/Walkshed analysis around Padua-Parmadale Properties, confirmed suspicion of lower poverty rates
 
 - Marketing
-  - Updated Activity info sent for North Chagrin and Bedford Reservations: Linsey asked for GPS coordinates on a couple locations, getting those back shortly and then we should be good to move on to a new park
+  - Updated Activity info sent for North Chagrin and Bedford Reservations: Linsey asked for GPS coordinates on a couple locations
 
 - App
   - Keeping eye on road closures
