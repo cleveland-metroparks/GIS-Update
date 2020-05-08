@@ -3,14 +3,26 @@
 ## Major themes and developments
 * ### Update to Cleveland Metroparks App
   * Input of closures
-    * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/app/closures.gif?raw=true)
+
+![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/app/closures.gif?raw=true)
+
   * Testing of 360 camera imports in app:
-      * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/app/app360.gif?raw=true)
+
+![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/app/app360.gif?raw=true)
+
 * ### 3D updates
-* ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/3D/lal.jpg?raw=true)
+
+* Look About Lodge
+![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/3D/lal.jpg?raw=true)
+
+* Gorillas and Zoo Entrance
+![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/3D/gorillasentrance.gif?raw=true)
+
+
 * ### Infrastructure updates
   * Porting print server over to new infrastructure for additional security and functionality, porting Real Estate Land Protection datasets first
-    * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/realestate/REinterface.jpg?raw=true)
+
+![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/realestate/REinterface.jpg?raw=true)
 
 
 
@@ -75,10 +87,16 @@
 ## Infrastructure
 * Updated servers for vulnerability scan
 * Fixed blocking issues on new maps print server
-  * Porting over datasets for display on new pring server
+  * Porting over datasets for display on new print server
+* RE360 Camera project with Case Students nearing completion. Started testing with data processing
+* Deploying plant disease app in conjunction with Kent State
+
+## 3D Models  
+* 360 model of Rainforest and Zoo entrance
+* Upcoming 3D model of orang exhibit
 
 ## Funding opportunities
-* ~$50,000 in funding from World Bank Tanzania as extension to work in Zanzibar, unknown timeline
+* ~$50,000 in funding from World Bank Tanzania as extension to work in Zanzibar, unknown timeline, pro-forma invoice
 * Possible project of unknown size opening up in northern Tanzania
 * ~~Innovation Challenge Fund 2020~~
   * Challenge cancelled
