@@ -6,10 +6,11 @@
     * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/app/closures.gif?raw=true)
   * Testing of 360 camera imports in app:
       * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/app/app360.gif?raw=true)
-
+* ### 3D updates
+* ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/3D/lal.jpg?raw=true)
 * ### Mapping requests
 * ### Community Confluence Flights
-* ### 3D updates
+
 
 ## Tom
 - P&D
