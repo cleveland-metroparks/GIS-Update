@@ -28,42 +28,33 @@
 - Data migration to new server: noticed a lot of source data formats (for base layers) that have changed which makes updating more painful. I'm going to concentrate more on porting over whats currently in place and make incremental updates in between other initiatives.
 
 ## Brandon
-### BUILD Grant
-- Continue rebuilding the overall map project
-- Update Chagrin Valley Connector alignment
-- Work with Sara to develop maps for grant application
+
+### CHEERS
+- Working with the contractors from the CHEERS grant to provide data that is needed.
 
 ### Hawthorn Valley
-- Develop maps/graphics
 - Create a video from existing drone footage to show the overall property, highlight specific areas to show their importance.
 
 ### 3D Modeling
-- Finish Look about Lodge
-
-### Other
-- Final edits to Lake Erie Water Trail Map and Sign
-- Update no mow areas
-
+- Look about Lodge
 
 ## India
 
 ### Flights + Authorizations
-* Wendy Park 200ft authorization granted along with DJI equivalent
-* Wendy Park flown for construction images and video + Wendy Park bridge for Eric
-* Lakeshore CHEERS area FAA auth granted (200/100 ft mixed area) + DJI auth granted
-* Hawthorne Flights for Real Estate complete
-* On calendar: Zoo Admin, E.55th Marina, Lakeshore Flights, Euclid Beach Photo recreations, Garfield Pond/Mill/Wolf Creek
+* Green Roof Flight   6/03/2020 (video)
+* Wendy Park Flight 5/24/2020 (stills)
+* Old Mavic Test
+* Rhino Yard and Zoo Admin (video, stills, orthos, dsm)
+* Fabrizi and Lakeshore authorizations approved
 
 ### Developer Work
-* Pycon follow-up
-* Wrapped up NR nursery project
-* Security protocols implemented
-* Security Updates for Servers
+* Pycon Material Review
+* Land Protection Server Review
+* ML Overviews
 
 ### Misc.
-* Wendy Park Video Cut posted to Youtube
-* Prepping presentation for Stats Lunch
-* Continuing education coursework (Python)
+* Maintenance drones
+* Clean SD Cards 
 
 ## Stephen
 
