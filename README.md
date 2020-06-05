@@ -1,7 +1,6 @@
 # GIS Update
 
 ## Major themes and developments
-* ### Update to Cleveland Metroparks App
 * ### 3D updates
 * Look About Lodge
   * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/3D/lal.jpg?raw=true)
@@ -60,10 +59,10 @@
 
 ### Infrastructure
 * Update servers for vulnerability scan ongoing
-* Porting over datasets for display on new print server
-
-* RE360 Camera project with Case Students nearing completion. Started testing with data processing
-* Deploying plant disease app in conjunction with Kent State
+* Working on final details for phase 1 of Real Estate Land Protection layer roll out
+* RE360 Camera project with Case Students nearing completion. Started testing with data processing. All parts have come home. Will begin assembly next week.
+* Deploying plant disease app in conjunction with Kent State. App released, web site released. Connected staff with database for monitoring and assessment.
+* RFP Committee for new Cleveland Metroparks App
 
 ### 3D Models  
 * New 360 model Zoo entrance
