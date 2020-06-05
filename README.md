@@ -54,27 +54,26 @@
 
 ### Misc.
 * Maintenance drones
-* Clean SD Cards 
+* Clean SD Cards
 
 ## Stephen
 
 ### Infrastructure
-* Updated servers for vulnerability scan
-* Fixed blocking issues on new maps print server
-  * Porting over datasets for display on new print server
+* Update servers for vulnerability scan ongoing
+* Porting over datasets for display on new print server
+
 * RE360 Camera project with Case Students nearing completion. Started testing with data processing
 * Deploying plant disease app in conjunction with Kent State
 
 ### 3D Models  
-* 360 model of Rainforest and Zoo entrance
-* Upcoming 3D model of orang exhibit
+* New 360 model Zoo entrance
+* 3D model of orang exhibit
 
 ### Funding opportunities
 * ~$50,000 in funding from World Bank Tanzania as extension to work in Zanzibar, unknown timeline, pro-forma invoice
 * Possible project of unknown size opening up in northern Tanzania
-* ~~Innovation Challenge Fund 2020~~
-  * Challenge cancelled
+* European Space Agency has a call for proposals for a fund to provide _Planet_ data. It may be an opportunity to get data for the Andean Bear Conservation Alliance. Current projections on data costs for that project are infeasible at ~$900k.
 
-## Travel and Presentations
+## Upcoming Travel and Presentations
 * _Open source data processing with OpenDroneMap_ presented by Corey Snipes, one of our newer, local OpenDroneMap contributors will take place remotely at the 3-day DroneCamp short course on drone, June 23-25
 * World Bank meeting originally scheduled for May now moved to November
