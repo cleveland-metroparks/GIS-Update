@@ -2,44 +2,30 @@
 
 ## Major themes and developments
 * ### Update to Cleveland Metroparks App
-  * Input of closures
-    * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/app/closures.gif?raw=true)
-  * Testing of 360 camera imports in app:
-    * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/app/app360.gif?raw=true)
 * ### 3D updates
 * Look About Lodge
   * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/3D/lal.jpg?raw=true)
-* Gorillas and Zoo Entrance
+* Zoo Entrance
   * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/3D/gorillasentrance.gif?raw=true)
 * ### Infrastructure updates
   * Porting print server over to new infrastructure for additional security and functionality, porting Real Estate Land Protection datasets first
 * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/realestate/REinterface.jpg?raw=true)
 
-
-
 ## Tom
-### P&D
-- ADA Transition Plan: all updates have been compiled into a single spreadsheet. The master spreadsheet still needs to be corrected (phase column was out of sorts) and stripped of formulas.
-- BUILD Grant application: reviewed template cost-benefit analysis and prepping data in small section of Geauga County that would fall within the 1.5 mi buffer.
-- Gas Wells: to date, incomplete findings from the documents . Need to pull the physical map book from Isaac's old office to see if that clears things up.
-- Facilities DB: Zoo has been on hold.
+### Facilities DB
+- Sent info to Zoo staff to review for Fulcrum App considerations (i.e. review domain values for various categories): no feedback yet
 
-### Development
-- Bike/Walkshed analysis around Padua-Parmadale Properties, confirmed suspicion of lower poverty rates
-
-### Marketing
-- Updated Activity info sent for North Chagrin and Bedford Reservations: Linsey asked for GPS coordinates on a couple locations
+### Legal
+- All layers specific to Land Protection page have been loaded and styled on new page
 
 ### App
-- Keeping eye on road closures
+- Going to be reviewing format for trail segments used for routing by trails in the app
 
-### Real Estate
-- Prioritizing porting over data to new server so new secure connection can be in place for next meeting
+### ADA
+- All ADA updates have been appended to the transition plan spreadsheet to track what's been completed to date. Now I'm working through populating a column that tracks what is left to do at each facility.
 
 ### Misc GIS
-- ODNR trails inventory: sent Tom Arbour the data as we have it but also reviewed his metadata and GDB templates. Format calls for formal inventory of trail names with descriptions and trailheads with various amenities coded. The former would be a good initiative to work with OE staff on making sure we have novel descriptions for trails across the park.
-- RTA-Park Access analysis on hold, meeting with Angelo pushed back to June maybe. ITS did provide me with a way to export all programs with details like date/time which we plan to use in the analysis.
-- Data migration to new server (maybe 60% complete)
+- Data migration to new server: noticed a lot of source data formats (for base layers) that have changed which makes updating more painful. I'm going to concentrate more on porting over whats currently in place and make incremental updates in between other initiatives.
 
 ## Brandon
 ### BUILD Grant
