@@ -13,19 +13,22 @@
 
 ## Tom
 ### Facilities DB
-- Sent info to Zoo staff to review for Fulcrum App considerations (i.e. review domain values for various categories): no feedback yet
+- No major updates
 
 ### Legal
 - All layers specific to Land Protection page have been loaded and styled on new page
+- Legal now has restricted access, much of the NR team can access and review
+- Working with Stephanie and Jarrod to get list of deeds and parcels associated with the carbon credit project area. Test run with Bradley Woods with data provided by Jarrod.
+- Added carbon credit project area to gis print server
 
 ### App
-- Going to be reviewing format for trail segments used for routing by trails in the app
+- Testing network/trail updates and routing improvements on dev. Pushing to production soon.
 
 ### ADA
-- All ADA updates have been appended to the transition plan spreadsheet to track what's been completed to date. Now I'm working through populating a column that tracks what is left to do at each facility.
+- Working through populating a column that tracks what is left to do at each facility. Prioritizing this by Phase to make Phase 1 info available sooner.
 
-### Misc GIS
-- Data migration to new server: noticed a lot of source data formats (for base layers) that have changed which makes updating more painful. I'm going to concentrate more on porting over whats currently in place and make incremental updates in between other initiatives.
+### Park Operations
+- Trail map request for North Chagrin to show sign inventory (from fulcrum) on a per trail basis.
 
 ## Brandon
 
