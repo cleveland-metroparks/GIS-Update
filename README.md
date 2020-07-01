@@ -5,7 +5,7 @@
   * ![](https://github.com/OpenDroneMap/odm360/raw/master/images/cameras5.jpg)
 
 * ### App updates with improved routing
-  * ![](https://github.com/cleveland-metroparks/GIS-Update/master/imgs/app/routing.JPG)
+  * ![](https://github.com/cleveland-metroparks/GIS-Update/raw/master/imgs/app/routing.JPG)
 
 ## Tom
 ### Facilities DB
