@@ -53,20 +53,19 @@
 ## India
 
 ### Flights + Authorizations
-* Green Roof Flight   6/03/2020 (video)
-* Wendy Park Flight 5/24/2020 (stills)
-* Old Mavic Test
-* Rhino Yard and Zoo Admin (video, stills, orthos, dsm)
-* Fabrizi and Lakeshore authorizations approved
+* CHEERS Flights (Lakefront Nature Reserve, Doan Brook, Cultural Gardens, Federal Breakwall, etc.)
+* Worked with Brandon to get drone takeoff footage
+* Granted Wide-Area for Burke Lakefront
 
 ### Developer Work
 * Pycon Material Review
 * Land Protection Server Review
 * ML Overviews
 
-### Misc.
-* Maintenance drones
-* Clean SD Cards
+### Other
+* Wrapped up RE360 Project
+* Completed Internal Drone Permit Application
+* Tested FLIR and Thermal Set-up
 
 ## Stephen
 
