@@ -1,6 +1,14 @@
 # GIS Update
 
 ## Major themes and developments
+* ### Real Estate
+  * ![](https://github.com/cleveland-metroparks/GIS-Update/raw/master/imgs/realestate/ParcelMap.jpg)
+  * ![](https://github.com/cleveland-metroparks/GIS-Update/raw/master/imgs/realestate/drone1.JPG)
+
+* ### Planning
+  * ![](https://github.com/cleveland-metroparks/GIS-Update/raw/master/imgs/planning/BritonPark_SitePlan.jpg)
+  * ![](https://github.com/cleveland-metroparks/GIS-Update/raw/master/imgs/planning/NWSConnections_EXPORT-01.jpg)
+
 * ### odm360
   * ![](https://github.com/OpenDroneMap/odm360/raw/master/images/cameras5.jpg)
 
