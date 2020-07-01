@@ -1,15 +1,9 @@
 # GIS Update
 
 ## Major themes and developments
-* ### Infrastructure updates
-  * Porting print server over to new infrastructure for additional security and functionality, porting Real Estate Land Protection datasets first
-* ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/realestate/landprotection.JPG?raw=true)
-## Property boundary check: Fabrizi:
-  * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/realestate/fabrizi_boundary.png?raw=true)
-  * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/realestate/fabrizi_3D.gif?raw=true)
-* ### 3D updates
-* Orangutan Exhibit Reconstruction
-  * ![](https://github.com/cleveland-metroparks/GIS-Update/blob/master/imgs/3D/orantation.gif?raw=true)
+* ### odm360
+  * ![](https://github.com/OpenDroneMap/odm360/raw/master/images/cameras5.jpg)
+
 
 ## Tom
 ### Facilities DB
