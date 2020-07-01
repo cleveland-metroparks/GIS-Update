@@ -71,19 +71,17 @@
 
 ### Infrastructure
 * Update servers for vulnerability scan ongoing
-* Working on final details for phase 1 of Real Estate Land Protection layer roll out
-* RE360 Camera project with Case Students nearing completion. Started testing with data processing. All parts have come home. Will begin assembly next week.
+* Phase 1 roll out of Real Estate Land Protection layer nearly complete
+* RE360 Camera project with Case Students completed. Now open sourced with partners from Humanitarian OpenStreetMap Team and World Bank involved in next phase of development.
 * Deploying plant disease app in conjunction with Kent State. App released, web site released. Connected staff with database for monitoring and assessment.
 * RFP Committee for new Cleveland Metroparks App
 
-### 3D Models  
-* New 360 model Zoo entrance
-* 3D model of orang exhibit
-
 ### Funding opportunities
-* ~$50,000 in funding from World Bank Tanzania as extension to work in Zanzibar, unknown timeline, pro-forma invoice
 * Possible project of unknown size opening up in northern Tanzania
-* European Space Agency has a call for proposals for a fund to provide _Planet_ data. It may be an opportunity to get data for the Andean Bear Conservation Alliance. Current projections on data costs for that project are infeasible at ~$900k.
+* ~~European Space Agency has a call for proposals for a fund to provide _Planet_ data. It may be an opportunity to get data for the Andean Bear Conservation Alliance. Current projections on data costs for that project are infeasible at ~$900k.~~
+
+### Funding
+* In contract for $42,000 work with World Bank TZ extending previous work for datasets for flood innundation modeling from OpenDroneMap
 
 ## Upcoming Travel and Presentations
 * _Open source data processing with OpenDroneMap_ presented by Corey Snipes, one of our newer, local OpenDroneMap contributors will take place remotely at the 3-day DroneCamp short course on drone, June 23-25
