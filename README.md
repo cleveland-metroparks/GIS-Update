@@ -32,14 +32,23 @@
 
 ## Brandon
 
+### Lake Erie Water Trail
+- Updates
+
+### Legal
+-Parcel Map for trail connection between Brookside/Zoo and towpath
+
+### Brighton Park
+- Maps and site plan
+
+### TIGER
+-Update TIGER map for a Plain Dealer article
+
 ### CHEERS
 - Working with the contractors from the CHEERS grant to provide data that is needed.
 
 ### Hawthorn Valley
-- Create a video from existing drone footage to show the overall property, highlight specific areas to show their importance.
-
-### 3D Modeling
-- Look about Lodge
+-Hawthorn Property Drone Video, ongoing. Possible new intro video.
 
 ## India
 
