@@ -1,19 +1,11 @@
 # GIS Update
 
 ## Major themes and developments
-* ### Real Estate
-  * ![](https://github.com/cleveland-metroparks/GIS-Update/raw/master/imgs/realestate/ParcelMap.jpg)
-  * ![](https://github.com/cleveland-metroparks/GIS-Update/raw/master/imgs/realestate/drone1.JPG)
-
-* ### Planning
-  * ![](https://github.com/cleveland-metroparks/GIS-Update/raw/master/imgs/planning/BritonPark_SitePlan.jpg)
-  * ![](https://github.com/cleveland-metroparks/GIS-Update/raw/master/imgs/planning/NWSConnections_EXPORT-01.jpg)
-
-* ### odm360
-  * ![](https://github.com/OpenDroneMap/odm360/raw/master/images/cameras5.jpg)
-
-* ### App updates with improved routing
-  * ![](https://github.com/cleveland-metroparks/GIS-Update/raw/master/imgs/app/routing.JPG)
+* Zoo Facilities process starting
+* Cleveland Metroparks App RFP review
+* Reservation Map and Pathfinder updates
+* New method for monitoring usage logs on servers to improve usability and security
+* Layers complete on Real Estate Land Protection service. Print-to-pdf functionality underway.
 
 ## Tom
 ### Facilities DB
