@@ -40,15 +40,15 @@
 ## Brandon
 
 ### Marketing / Media
--Updating each reservation map for the pathfinder (updated boundaries, new amenities)
--Updating trail maps for the website as needed/requested
--Updated Slavic Village Connector maps for Steve Litt's article
+- Updating each reservation map for the pathfinder (updated boundaries, new amenities)
+- Updating trail maps for the website as needed/requested
+- Updated Slavic Village Connector maps for Steve Litt's article
 
 ### Lake Erie Water Trail
 - Updates
 
 ### Hawthorn Valley
--Created a FEMA Flood Zone map of the Hawthorn property
+- Created a FEMA Flood Zone map of the Hawthorn property
 
 ## India
 
