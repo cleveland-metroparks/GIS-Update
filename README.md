@@ -49,20 +49,29 @@
 
 ## India
 
-### Flights + Authorizations
-* CHEERS Flights (Lakefront Nature Reserve, Doan Brook, Cultural Gardens, Federal Breakwall, etc.)
-* Worked with Brandon to get drone takeoff footage
-* Granted Wide-Area for Burke Lakefront
+### Flights
+- Towpath (ongoing)
+- Green Roof (ongoing)
+- Wendy Park (ongoing)
+- Rainforest Dome (partially done/upcoming)
+- Asian Lantern Fest (done)
 
-### Developer Work
-* Pycon Material Review
-* Land Protection Server Review
-* ML Overviews
+### Stats Lunch
+- Introduced KNIME to the group
+- Formed Teams collaboration environment for the group
+- Continuing research into KNIME capabilities/uses
+- Collaborating with Pat and Chlondra on solving departmental data problems
 
-### Other
-* Wrapped up RE360 Project
-* Completed Internal Drone Permit Application
-* Tested FLIR and Thermal Set-up
+### Server Maintenance
+- Updated / ongoing security patches for servers
+- Added treehealth server to maintenance list
+- Researching automated log summaries for ongoing monitoring
+
+### Misc.
+- WebODM workshop (upcoming)
+- CHEERS Microsoft ICE stitching of the Pictometry imagery(follow-up)
+- Used KNIME to check attempted access to various servers by geographic area/looking into access type
+- Follow up with Andrew Bishop of the Nature Conservancy for invasive plant assessment
 
 ## Stephen
 
