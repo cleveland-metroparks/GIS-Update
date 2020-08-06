@@ -17,22 +17,25 @@
 
 ## Tom
 ### Facilities DB
-- No major updates
+- The Zoo assessments are starting in 2 weeks
 
 ### Legal
-- All layers specific to Land Protection page have been loaded and styled on new page
-- Legal now has restricted access, much of the NR team can access and review
-- Working with Stephanie and Jarrod to get list of deeds and parcels associated with the carbon credit project area. Test run with Bradley Woods with data provided by Jarrod.
-- Added carbon credit project area to gis print server
+- Bradley Woods parcel/deed boundaries sent to Stephanie for review along with spreadsheet of properties within the carbon credit project area
+- All of the main layers have been added to the Land Protection GIS page, just a few smaller loose ends now
 
 ### App
-- Testing network/trail updates and routing improvements on dev. Pushing to production soon.
+- Adjusting trails network data for new implementation of pgrouting
+- General updates to trails network for the alignments and what shows up with labeling in mapbox
+- Reviewing RFPs for new app
 
 ### ADA
-- Working through populating a column that tracks what is left to do at each facility. Prioritizing this by Phase to make Phase 1 info available sooner.
+- Finishing up the ADA update summary spreadsheet for Phase 1 in advance of next ADA meeting
 
-### Park Operations
-- Trail map request for North Chagrin to show sign inventory (from fulcrum) on a per trail basis.
+### Operations
+- Trail signage maps complete for North Chagrin
+
+### Marketing
+- Reviewing content, pulling info and coordinating for Pathfinder reboot
 
 ## Brandon
 
