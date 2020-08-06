@@ -36,23 +36,16 @@
 
 ## Brandon
 
+### Marketing / Media
+-Updating each reservation map for the pathfinder (updated boundaries, new amenities)
+-Updating trail maps for the website as needed/requested
+-Updated Slavic Village Connector maps for Steve Litt's article
+
 ### Lake Erie Water Trail
 - Updates
 
-### Legal
--Parcel Map for trail connection between Brookside/Zoo and towpath
-
-### Brighton Park
-- Maps and site plan
-
-### TIGER
--Update TIGER map for a Plain Dealer article
-
-### CHEERS
-- Working with the contractors from the CHEERS grant to provide data that is needed.
-
 ### Hawthorn Valley
--Hawthorn Property Drone Video, ongoing. Possible new intro video.
+-Created a FEMA Flood Zone map of the Hawthorn property
 
 ## India
 
