@@ -73,6 +73,8 @@ Working on setting up the stats meeting and possibly presenting
 - Wendy Park (ongoing)
 - Rainforest Dome (partially done/upcoming)
 - Asian Lantern Fest (done)
+- South Chagrin oak wilt test
+- Meeting re: thermal for mammal assessments
 
 ### Server Maintenance
 - Updated / ongoing security patches for servers
@@ -92,7 +94,8 @@ Working on setting up the stats meeting and possibly presenting
 * RFP Committee for new Cleveland Metroparks App
 
 ### Funding opportunities
-* Reviewing possible Ford Foundation funding
+* ~~Reviewing possible Ford Foundation funding~~
+* Call on possible National Geographic Funding
 
 ### Funding
 * In contract for $42,000 work with World Bank TZ extending previous work for datasets for flood innundation modeling from OpenDroneMap
@@ -101,4 +104,3 @@ Working on setting up the stats meeting and possibly presenting
 ## Upcoming Travel and Presentations
 * Requested to serve on UN World Food Program Drone Committee
 * Request for OpenDroneMap workshop by UN
-* World Bank meeting originally scheduled for May now moved to November
