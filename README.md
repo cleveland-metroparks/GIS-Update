@@ -46,27 +46,40 @@
 ## India
 
 ### Flights
+- SC flight with Pat Lorch to look for Oak Wilt
+- Coordinating with Andrew Bishop on processing Jaite aerials
+- Towpath (ongoing)
+- Green Roof (ongoing)
+- Wendy Park (ongoing)
+- Rainforest Dome (complete)
+
+### Infrastructure
+- Updated and patched all the servers, increased cadence of doing so
+- Working on recertification of dev1 server with Steve and Leland
+- Used Knime to isolate foreign IPs and add them to the banlist for vibi, treehealth, and rshiny
+- Working with Steve to get big drones in the air with thermal and multispectral cameras. There is a high demand in NR and other park districts as well as the Nature Conservancy for insights into multispectral capabilities.
+
+### Programming
+- Working with Pat on learning ML esp. as it relates to images processing
+- Continuing programming practice through online courses
+
+### Stats Lunch
+Working on setting up the stats meeting and possibly presenting
+
+### Flights
 - Towpath (ongoing)
 - Green Roof (ongoing)
 - Wendy Park (ongoing)
 - Rainforest Dome (partially done/upcoming)
 - Asian Lantern Fest (done)
 
-### Stats Lunch
-- Introduced KNIME to the group
-- Formed Teams collaboration environment for the group
-- Continuing research into KNIME capabilities/uses
-- Collaborating with Pat and Chlondra on solving departmental data problems
-
 ### Server Maintenance
 - Updated / ongoing security patches for servers
-- Added treehealth server to maintenance list
 - Researching automated log summaries for ongoing monitoring
 
 ### Misc.
 - WebODM workshop (upcoming)
 - CHEERS Microsoft ICE stitching of the Pictometry imagery(follow-up)
-- Used KNIME to check attempted access to various servers by geographic area/looking into access type
 - Follow up with Andrew Bishop of the Nature Conservancy for invasive plant assessment
 
 ## Stephen
