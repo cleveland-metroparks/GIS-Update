@@ -9,25 +9,26 @@
 
 ## Tom
 ### Facilities DB
-- The Zoo assessments are starting in 2 weeks
+- The Zoo assessments have started, light support needed to date
 
 ### Legal
-- Bradley Woods parcel/deed boundaries sent to Stephanie for review along with spreadsheet of properties within the carbon credit project area
-- All of the main layers have been added to the Land Protection GIS page, just a few smaller loose ends now
+- Bradley Woods parcel/deed boundaries sent to Stephanie for review along with spreadsheet of properties within the carbon credit project area: still pending review
+- Land Protection GIS page: still need to migrate contours, link highway shields
 
 ### App
-- Adjusting trails network data for new implementation of pgrouting
-- General updates to trails network for the alignments and what shows up with labeling in mapbox
-- Reviewing RFPs for new app
+- Ongoing trail/network updates, need to push an update to production server for routing network (primarily to add West Creek mountain bike trail w/the loops builder)
+- Created and uploaded new points dataset so all Attractions/location icons have information for click-events built into MapBox
+- App RFPs were reviewed, graded and now moving toward interviews
 
 ### ADA
-- Finishing up the ADA update summary spreadsheet for Phase 1 in advance of next ADA meeting
-
-### Operations
-- Trail signage maps complete for North Chagrin
+- Finishing up the ADA update summary spreadsheet for Phase 1 in advance of next ADA meeting: meeting pushed back to October.
 
 ### Marketing
-- Reviewing content, pulling info and coordinating for Pathfinder reboot
+- Finishing up second round of reviews for the Pathfinder publication. Preparing a document for Brandon and Donna to reference for map and legend updates
+- Pulling together an estimate for mailings through the Winter of 2020-21 for the deer management program
+
+### NR
+- Need to prepare mailing for portion of Mill Stream run for deer management program
 
 ## Brandon
 
