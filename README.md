@@ -1,7 +1,7 @@
 # GIS Update
 
-## Major themes and developments
-* Zoo Facilities process starting
+## Major themes and developments (no major changes from prior)
+* Zoo Facilities process
 * Cleveland Metroparks App RFP review
 * Reservation Map and Pathfinder updates
 * New method for monitoring usage logs on servers to improve usability and security
