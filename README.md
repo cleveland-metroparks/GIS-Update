@@ -32,16 +32,17 @@
 
 ## Brandon
 
+### Real Estate / Development
+- Hawthorne Property - Updated maps and created a covenant for Clean Ohio grant application - Kristen/Stephanie
+- Johnson's Creek - Created a map and a proposed covenant for Clean Ohio grant application - Kristen/Stephanie
+
+### Planning
+- Mulberry Rd proposed partial closure map - Sara
+- West Creek - map(s) for WCC to use for their grant application to acquire part of WKYC property - Derek
+- Zoo - possible traffic reconfiguration/back road entrance - Sean
+
 ### Marketing / Media
-- Updating each reservation map for the pathfinder (updated boundaries, new amenities)
-- Updating trail maps for the website as needed/requested
-- Updated Slavic Village Connector maps for Steve Litt's article
-
-### Lake Erie Water Trail
-- Updates
-
-### Hawthorn Valley
-- Created a FEMA Flood Zone map of the Hawthorn property
+Pathfinder map updates - ongoing - VisCom
 
 ## India
 
