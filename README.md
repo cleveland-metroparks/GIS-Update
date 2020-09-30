@@ -3,9 +3,11 @@
 ## Major themes and developments (no major changes from prior)
 * Zoo Facilities process
 * Cleveland Metroparks App RFP review
-* Reservation Map and Pathfinder updates
-* New method for monitoring usage logs on servers to improve usability and security
-* Layers complete on Real Estate Land Protection service. Print-to-pdf functionality underway.
+   * Interviews complete
+* Reservation Map and Pathfinder updates completed
+* Connecting NR staff with Land Protection layers for review
+* Deer management program mailings
+* Increased cadence for security patches on servers due to increased speed with which they are available.
 
 ## Tom
 ### P&D
@@ -79,19 +81,22 @@ Data request - Kent State
 ## Stephen
 
 ### Infrastructure
-* Phase 1 roll out of Real Estate Land Protection layers. Now working on print-to-pdf functionality
+* Phase 1 roll out of Real Estate Land Protection layers. Connecting NR staff for review
 * RE360 Camera project with Case Students completed. Now open sourced with partners from Humanitarian OpenStreetMap Team and World Bank involved in next phase of development.
-* Deploying plant disease app in conjunction with Kent State. App released, web site released. Connected staff with database for monitoring and assessment.
+   * Draft software complete
+   * Draft hardware nearly complete
+   * Likely to deploy in Zanzibar in December
 * RFP Committee for new Cleveland Metroparks App
 
 ### Funding opportunities
 * ~~Reviewing possible Ford Foundation funding~~
 * Call on possible National Geographic Funding
+   * Likely will not pursue
 
 ### Funding
 * In contract for $42,000 work with World Bank TZ extending previous work for datasets for flood innundation modeling from OpenDroneMap
-    * Target completion date for draft of October 1
+    * Aiming for mid November completion
 
 ## Upcoming Travel and Presentations
-* Requested to serve on UN World Food Program Drone Committee
-* Request for OpenDroneMap workshop by UN
+* Serving on UN World Food Program Drone Committee
+* Request for OpenDroneMap workshop by UN, planning underway
