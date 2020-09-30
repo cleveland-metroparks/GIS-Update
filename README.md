@@ -1,6 +1,6 @@
 # GIS Update
 
-## Major themes and developments (no major changes from prior)
+## Major themes and developments
 * Zoo Facilities process
 * Cleveland Metroparks App RFP review
    * Interviews complete
