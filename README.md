@@ -53,44 +53,26 @@ Pathfinder map updates - ongoing - VisCom
 
 ## India
 
-### Flights
-- SC flight with Pat Lorch to look for Oak Wilt
-- Coordinating with Andrew Bishop on processing Jaite aerials
-- Towpath (ongoing)
-- Green Roof (ongoing)
-- Wendy Park (ongoing)
-- Rainforest Dome (complete)
+### Flights:
++ Wendy Park update flights
++ Gordon Park green roof update flights
++ Lake Isaac flight for Valerie in NR; working on processing 
 
-### Infrastructure
-- Updated and patched all the servers, increased cadence of doing so
-- Working on recertification of dev1 server with Steve and Leland
-- Used Knime to isolate foreign IPs and add them to the banlist for vibi, treehealth, and rshiny
-- Working with Steve to get big drones in the air with thermal and multispectral cameras. There is a high demand in NR and other park districts as well as the Nature Conservancy for insights into multispectral capabilities.
+### Infrastructure:
++ Updated and patched all the servers
++ Recertified dev1 server
++ Created tutorial video (see attached) with instructions for NR staff to generate a doc as a first step to providing them access to the land protection server
++ Continuing coordination with NR to provide access to the land protection server
 
-### Programming
-- Working with Pat on learning ML esp. as it relates to images processing
-- Continuing programming practice through online courses
+### Programming:
++ Working with Pat on learning ML esp. as it relates to image processing
++ Continuing programming practice through online courses
 
-### Stats Lunch
-Working on setting up the stats meeting and possibly presenting
-
-### Flights
-- Towpath (ongoing)
-- Green Roof (ongoing)
-- Wendy Park (ongoing)
-- Rainforest Dome (partially done/upcoming)
-- Asian Lantern Fest (done)
-- South Chagrin oak wilt test
-- Meeting re: thermal for mammal assessments
-
-### Server Maintenance
-- Updated / ongoing security patches for servers
-- Researching automated log summaries for ongoing monitoring
-
-### Misc.
-- WebODM workshop (upcoming)
-- CHEERS Microsoft ICE stitching of the Pictometry imagery(follow-up)
-- Follow up with Andrew Bishop of the Nature Conservancy for invasive plant assessment
+### Misc:
++ Coordinated Stats Lunch
++ Sent over Brighton Park imagery to Kristen Zeiber who is working with Kelly on the CUDC project
++ Studying for FAA Part 107 recertification test in Oct. 
++ Prepping to lead ODM workshop Oct. 16th
 
 ## Stephen
 
