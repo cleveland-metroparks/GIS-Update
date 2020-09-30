@@ -8,27 +8,34 @@
 * Layers complete on Real Estate Land Protection service. Print-to-pdf functionality underway.
 
 ## Tom
-### Facilities DB
-- The Zoo assessments have started, light support needed to date
+### P&D
+- Facilities DB: Zoo assessments have started, light support needed to date - SAME
+- Scheduling a time to go out to Big Met to map out the pin curbs along the cart path. I'll also check path widths and make sure the alignment we have is accurate.
 
 ### Legal
-- Bradley Woods parcel/deed boundaries sent to Stephanie for review along with spreadsheet of properties within the carbon credit project area: still pending review
+- Compiled a list of parcels at least partially within the carbon credit project area, cross-checked with RE database
+- Bradley Woods parcel/deed boundaries sent to Stephanie for review along with spreadsheet of properties within the carbon credit project area: COMPLETE
 - Land Protection GIS page: still need to migrate contours, link highway shields
 
 ### App
 - Ongoing trail/network updates, need to push an update to production server for routing network (primarily to add West Creek mountain bike trail w/the loops builder)
-- Created and uploaded new points dataset so all Attractions/location icons have information for click-events built into MapBox
-- App RFPs were reviewed, graded and now moving toward interviews
+- Created and uploaded new points dataset so all Attractions/location icons have information for click-events built into MapBox: not tested by Jeff yet
+- App interviews complete
 
 ### ADA
-- Finishing up the ADA update summary spreadsheet for Phase 1 in advance of next ADA meeting: meeting pushed back to October.
+- Finishing up the ADA update summary spreadsheet for Phase 1 in advance of next ADA meeting: meeting pushed back to October (ONGOING)
+- Compiled list of restrooms and graded the level of accessibility: Accessible, Mostly Accessible, Somewhat Accessible, Not Accessible. Sent to Sean for review.
 
 ### Marketing
-- Finishing up second round of reviews for the Pathfinder publication. Preparing a document for Brandon and Donna to reference for map and legend updates
-- Pulling together an estimate for mailings through the Winter of 2020-21 for the deer management program
+- Pathfinder feedback is closed
+- Pulling together an estimate for mailings through the Winter of 2020-21 for the deer management program - complete
 
 ### NR
-- Need to prepare mailing for portion of Mill Stream run for deer management program
+- Need to prepare mailing for portion of Mill Stream run for deer management program - complete
+- A couple map requests in progress, waiting on feedback
+
+### Outside request
+- ODNR is using our trails data in a portal they are developing for the public to locate trails throughout the state. I'm going to translate our data as best as possible into ODNR format to ensure CM trails are represented as accurately as possible. 
 
 ## Brandon
 
