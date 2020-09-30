@@ -39,17 +39,19 @@
 
 ## Brandon
 
-### Real Estate / Development
-- Hawthorne Property - Updated maps and created a covenant for Clean Ohio grant application - Kristen/Stephanie
-- Johnson's Creek - Created a map and a proposed covenant for Clean Ohio grant application - Kristen/Stephanie
-
 ### Planning
-- Mulberry Rd proposed partial closure map - Sara
-- West Creek - map(s) for WCC to use for their grant application to acquire part of WKYC property - Derek
-- Zoo - possible traffic reconfiguration/back road entrance - Sean
+- Lake Erie Water Trail updates
+- Camp Cleveland map - Kelly C./Judith
+
+### Design
+- Zoo Admin addition site plan - Christopher
+- Shoreway bridge graphic - Sean
 
 ### Marketing / Media
-Pathfinder map updates - ongoing - VisCom
+- Pathfinder map updates complete
+
+### External
+Data request - Kent State
 
 ## India
 
