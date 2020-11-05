@@ -59,25 +59,23 @@
 ## India
 
 ### Flights:
-+ Wendy Park update flights
-+ Gordon Park green roof update flights
-+ Lake Isaac flight for Valerie in NR; working on processing 
++ Williams property in Brecksville and Uthoff Property in Hinckley/Sent video to interested parties and Brandon for editing
++ Request from Eric H. to help CM Police Dispatch get aerial imagery of key sites across some of our reservations
++ Wild Winter Lights/Winter Riverfest Requests
++ Wendy and Green Roof maintenance flights  
 
 ### Infrastructure:
-+ Updated and patched all the servers
-+ Recertified dev1 server
-+ Created tutorial video (see attached) with instructions for NR staff to generate a doc as a first step to providing them access to the land protection server
-+ Continuing coordination with NR to provide access to the land protection server
++ Update and maintain servers
++ Reviewing using parallel-ssh to simultaneously update servers
++ Almost everyone in NR now has access to the Land Protection Server
 
 ### Programming:
-+ Working with Pat on learning ML esp. as it relates to image processing
-+ Continuing programming practice through online courses
++ Working through Fastai material
++ Working through Python materials
 
-### Misc:
-+ Coordinated Stats Lunch
-+ Sent over Brighton Park imagery to Kristen Zeiber who is working with Kelly on the CUDC project
-+ Studying for FAA Part 107 recertification test in Oct. 
-+ Prepping to lead ODM workshop Oct. 16th
+# Misc:
++ Followed up with Andrew Bishop about CVNP data/Revisiting UAS applications in conservation
++ Prepping for UN workshop Nov. 23 and Nov. 24th
 
 ## Stephen
 
@@ -90,9 +88,7 @@
 * RFP Committee for new Cleveland Metroparks App
 
 ### Funding opportunities
-* ~~Reviewing possible Ford Foundation funding~~
-* Call on possible National Geographic Funding
-   * Likely will not pursue
+* None at this time
 
 ### Funding
 * In contract for $42,000 work with World Bank TZ extending previous work for datasets for flood innundation modeling from OpenDroneMap
@@ -101,3 +97,4 @@
 ## Upcoming Travel and Presentations
 * Serving on UN World Food Program Drone Committee
 * Request for OpenDroneMap workshop by UN, planning underway
+  * Will receive some nominal funding to cover workshop
