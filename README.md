@@ -1,13 +1,12 @@
 # GIS Update
 
 ## Major themes and developments
-* Zoo Facilities process
-* Cleveland Metroparks App RFP review
-   * Interviews complete
-* Reservation Map and Pathfinder updates completed
-* Connecting NR staff with Land Protection layers for review
-* Deer management program mailings
-* Increased cadence for security patches on servers due to increased speed with which they are available.
+* Land Protection Server now available to nearly all NR staff for review. Reviews due end of November
+* Cleveland Metroparks App RFP review ongoing
+* ADA Transition Plan annual update underway
+* Updates to Cleveland Metroparks App to improve flow between search and map deployed to web, soon deployed to app store
+* Last call for Pathfinder updates
+
 
 ## Tom
 ### P&D
