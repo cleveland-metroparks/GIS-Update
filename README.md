@@ -12,32 +12,34 @@
 ## Tom
 ### P&D
 - Facilities DB: Zoo assessments have started, light support needed to date - SAME
-- Scheduling a time to go out to Big Met to map out the pin curbs along the cart path. I'll also check path widths and make sure the alignment we have is accurate.
+- Big Met: completed data collection at Big Met and generated a couple maps. Data collected created: pin curb alignment and counts, cart path centerlines, existing layouts for tee amenities for ADA consideration. Awaiting direction on what's needed for a bid book.
+- Looking to reboot the walk/bike-shed analysis for 2021. First step: update park access points and downloaded the latest ACS data to import into database
 
 ### Legal
-- Compiled a list of parcels at least partially within the carbon credit project area, cross-checked with RE database
-- Bradley Woods parcel/deed boundaries sent to Stephanie for review along with spreadsheet of properties within the carbon credit project area: COMPLETE
-- Land Protection GIS page: still need to migrate contours, link highway shields
+- 2020 Parcels are on Land Protection Server (LPS), going to push to all other pages before next meeting
+- Need to load completed interior park boundaries data to LPS with some data joined from the REDB (Bradley Woods and Huntington complete, working on Rocky River now)
 
 ### App
 - Ongoing trail/network updates, need to push an update to production server for routing network (primarily to add West Creek mountain bike trail w/the loops builder)
-- Created and uploaded new points dataset so all Attractions/location icons have information for click-events built into MapBox: not tested by Jeff yet
-- App interviews complete
+- Click-events built into MapBox not tested yet by Jeff
+- To do: re-examine Attraction icons and switch to match entries of Activities table from ITS. Attractions having a unique category is deprecated (which is a very good thing).
 
 ### ADA
-- Finishing up the ADA update summary spreadsheet for Phase 1 in advance of next ADA meeting: meeting pushed back to October (ONGOING)
-- Compiled list of restrooms and graded the level of accessibility: Accessible, Mostly Accessible, Somewhat Accessible, Not Accessible. Sent to Sean for review.
+- ADA Transition Plan: added year info to corrective actions and awaiting next steps for publication/communication on website
+- Compiled list of restrooms and graded the level of accessibility: Accessible, Mostly Accessible, Somewhat Accessible, Not Accessible. Awaiting final feedback from ADA Champions and will send a report to Greg.
 
 ### Marketing
-- Pathfinder feedback is closed
-- Pulling together an estimate for mailings through the Winter of 2020-21 for the deer management program - complete
+- Pathfinder - updated (10/29): last call for feedback, looking good.
 
-### NR
-- Need to prepare mailing for portion of Mill Stream run for deer management program - complete
-- A couple map requests in progress, waiting on feedback
+### Maps
+- NR: request for Oak Wilt maps completed for First Energy
+- ITS: created set of Zoo wifi maps
+- Trails: created a new set of NC trail maps for Ralph without labels
+- Trails: request for Hinckley Trail Signage maps using Fulcrum data - outstanding
+- Parking estimate for temporary Rivergate overflow lot
 
 ### Outside request
-- ODNR is using our trails data in a portal they are developing for the public to locate trails throughout the state. I'm going to translate our data as best as possible into ODNR format to ensure CM trails are represented as accurately as possible. 
+- Translating trails inventory into ODNR format: at least 2/3 complete
 
 ## Brandon
 
