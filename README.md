@@ -44,18 +44,17 @@
 ## Brandon
 
 ### Planning
-- Lake Erie Water Trail updates
-- Camp Cleveland map - Kelly C./Judith
+- Williams Property Video for grant application
+- Camp Cleveland Map updates
 
 ### Design
-- Zoo Admin addition site plan - Christopher
-- Shoreway bridge graphic - Sean
+- Zoo project development planning
+- Brecksville nature play site plan
 
 ### Marketing / Media
-- Pathfinder map updates complete
+- Big Creek Trail Map update
 
 ### External
-Data request - Kent State
 
 ## India
 
