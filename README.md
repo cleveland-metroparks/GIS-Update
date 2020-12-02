@@ -82,17 +82,17 @@ Onboarding buddy for Nate Hoover the new Land Conservation Coordinator (similar 
 * RE360 Camera project with Case Students completed. Now open sourced with partners from Humanitarian OpenStreetMap Team and World Bank involved in next phase of development.
    * Draft software complete
    * Draft hardware nearly complete
-   * Likely to deploy in Zanzibar in December
-* RFP Committee for new Cleveland Metroparks App
+   * Deployed demonstration project to Dar es Salaam, Tanzania. Later deployment likely to Zanzibar
+* RFP Committee for new Cleveland Metroparks App now complete.
 
 ### Funding opportunities
 * None at this time
 
 ### Funding
 * In contract for $42,000 work with World Bank TZ extending previous work for datasets for flood innundation modeling from OpenDroneMap
-    * Aiming for mid November completion
+    * Work continues
 
 ## Upcoming Travel and Presentations
 * Serving on UN World Food Program Drone Committee
-* Request for OpenDroneMap workshop by UN, planning underway
-  * Will receive some nominal funding to cover workshop
+* UN OpenDroneMap workshop successful
+* Attended DFGF seminar on longitudinal gorilla study
