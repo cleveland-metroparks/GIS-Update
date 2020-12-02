@@ -44,18 +44,18 @@
 
 ## Brandon
 
-### Planning
-- Williams Property Video for grant application
-- Camp Cleveland Map updates
+### Development
+- CM Total Acreage Map
 
-### Design
-- Zoo project development planning
-- Brecksville nature play site plan
+### Legal
+- Williams Property Drone Video
 
 ### Marketing / Media
-- Big Creek Trail Map update
+- Lakefront Reservation Trail Map
+- CMP Folded Map
 
-### External
+### Other
+Onboarding buddy for Nate Hoover the new Land Conservation Coordinator (similar to Isaac's old role)
 
 ## India
 
