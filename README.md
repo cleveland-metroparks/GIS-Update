@@ -10,35 +10,37 @@
 
 ## Tom
 ### P&D
-- Facilities DB: Zoo assessments have started, light support needed to date - SAME
-- Big Met: completed data collection at Big Met and generated a couple maps. Data collected created: pin curb alignment and counts, cart path centerlines, existing layouts for tee amenities for ADA consideration. Awaiting direction on what's needed for a bid book.
-- Looking to reboot the walk/bike-shed analysis for 2021. First step: update park access points and downloaded the latest ACS data to import into database
+  - Facilities DB: Zoo assessments have started, light support needed to date - SAME
+  - Big Met Cart Paths: Awaiting direction on what's needed for a bid book - PENDING
+  - Looking to reboot the walk/bike-shed analysis for 2021. Need to update park access points
 
 ### Legal
-- 2020 Parcels are on Land Protection Server (LPS), going to push to all other pages before next meeting
-- Need to load completed interior park boundaries data to LPS with some data joined from the REDB (Bradley Woods and Huntington complete, working on Rocky River now)
+  - Loaded interior boundaries for Bradley Woods to LPS (need to work on view to join data from the real estate database and deal with duplicate parcels)
+  - Started Rocky River for integrating interior boundaries into GIS
 
-### App
-- Ongoing trail/network updates, need to push an update to production server for routing network (primarily to add West Creek mountain bike trail w/the loops builder)
-- Click-events built into MapBox not tested yet by Jeff
-- To do: re-examine Attraction icons and switch to match entries of Activities table from ITS. Attractions having a unique category is deprecated (which is a very good thing).
+### Updates
+  - Switching geoserver data to reference the new database - IN PROGRESS
+
+## App (ALL SAME: will pick up in advance of developer beginning new app)
+  - Ongoing trail/network updates, need to push an update to production server for routing network (primarily to add West Creek mountain bike trail w/the loops builder)
+  - Click-events built into MapBox not tested yet by Jeff
+  - To do: re-examine Attraction icons and switch to match entries of Activities table from ITS. Attractions having a unique category is deprecated (which is a very good thing).
 
 ### ADA
-- ADA Transition Plan: added year info to corrective actions and awaiting next steps for publication/communication on website
-- Compiled list of restrooms and graded the level of accessibility: Accessible, Mostly Accessible, Somewhat Accessible, Not Accessible. Awaiting final feedback from ADA Champions and will send a report to Greg.
+  - ADA Transition Plan update passed to Headley in advance of publication - COMPLETE
+  - List of accessible restrooms sent to Greg and all other restrooms graded on accessibility - COMPLETE
 
 ### Marketing
-- Pathfinder - updated (10/29): last call for feedback, looking good.
+  - Pathfinder review - COMPLETE
 
 ### Maps
-- NR: request for Oak Wilt maps completed for First Energy
-- ITS: created set of Zoo wifi maps
-- Trails: created a new set of NC trail maps for Ralph without labels
-- Trails: request for Hinckley Trail Signage maps using Fulcrum data - outstanding
-- Parking estimate for temporary Rivergate overflow lot
+  - Trails: request for Hinckley Trail Signage maps using Fulcrum data - COMPLETE
+  - Mapped sinkhole location in Bedford - COMPLETE
 
 ### Outside request
-- Translating trails inventory into ODNR format: at least 2/3 complete
+  - Translating trails inventory into ODNR format: at least 2/3 complete Just now hearing back from ODNR, sounds like they may have been changing things around on their end. Waiting for details and for app testing.
+  - Some coordination with LENSC about ADA improvements
+
 
 ## Brandon
 
