@@ -60,23 +60,20 @@ Onboarding buddy for Nate Hoover the new Land Conservation Coordinator (similar 
 ## India
 
 ### Flights:
-+ Williams property in Brecksville and Uthoff Property in Hinckley/Sent video to interested parties and Brandon for editing
-+ Request from Eric H. to help CM Police Dispatch get aerial imagery of key sites across some of our reservations
-+ Wild Winter Lights/Winter Riverfest Requests
-+ Wendy and Green Roof maintenance flights  
++ Flying when possible to collect imagery for Dispatch navigation database
 
 ### Infrastructure:
-+ Update and maintain servers
-+ Reviewing using parallel-ssh to simultaneously update servers
-+ Almost everyone in NR now has access to the Land Protection Server
++ Updated and patched all the servers
 
 ### Programming:
-+ Working through Fastai material
-+ Working through Python materials
++ Fast.ai Deep Learning Course to support NR deep learning needs. May also augment OpenDroneMap initiatives.
 
-# Misc:
-+ Followed up with Andrew Bishop about CVNP data/Revisiting UAS applications in conservation
-+ Prepping for UN workshop Nov. 23 and Nov. 24th
+### Misc:
++ UN ODM Training Workshop prep/presentation/follow-up
++ Coordinated Stats Lunch
++ Review existing imagery for Dispatch project
++ Updated G Drive with additional Wendy Park imagery
++ Following up on request from Douglas Kusak (CanalWay Center) for imagery of the Towpath
 
 ## Stephen
 
