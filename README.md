@@ -2,10 +2,8 @@
 
 ## Major themes and developments
 * Land Protection Server now available to nearly all NR staff for review. Reviews due end of November
-* Cleveland Metroparks App RFP review ongoing
-* ADA Transition Plan annual update underway
+* Cleveland Metroparks App RFP review complete
 * Updates to Cleveland Metroparks App to improve flow between search and map deployed to web, soon deployed to app store
-* Last call for Pathfinder updates
 
 
 ## Tom
