@@ -56,20 +56,24 @@ Onboarding buddy for Nate Hoover the new Land Conservation Coordinator (similar 
 ## India
 
 ### Flights:
+
 + Flying when possible to collect imagery for Dispatch navigation database
 
 ### Infrastructure:
+
 + Updated and patched all the servers
 
 ### Programming:
+
 + Fast.ai Deep Learning Course to support NR deep learning needs. May also augment OpenDroneMap initiatives.
++ Developer courses through Coursera to sharpen Python skills
++ Following up on request from Sarah E. to investigate why background map on nursery site is missing
 
 ### Misc:
-+ UN ODM Training Workshop prep/presentation/follow-up
-+ Coordinated Stats Lunch
+
 + Review existing imagery for Dispatch project
-+ Updated G Drive with additional Wendy Park imagery
-+ Following up on request from Douglas Kusak (CanalWay Center) for imagery of the Towpath
++ New Pcard activation
++ Followed up on request from Foster C. Brown for rock and mineral related imagery
 
 ## Stephen
 
