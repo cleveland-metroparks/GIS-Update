@@ -8,12 +8,9 @@
 
 ## Tom
 ### P&D
-  - Facilities DB: Zoo assessments have started, light support needed to date - SAME
-  - Big Met Cart Paths: Awaiting direction on what's needed for a bid book - PENDING
-  - Looking to reboot the walk/bike-shed analysis for 2021. Need to update park access points
+  - Walk/bike-shed analysis for 2021. Need to update park access points w/Sara on 12/22. Loading latest ACS data to database.
 
 ### Legal
-  - Loaded interior boundaries for Bradley Woods to LPS (need to work on view to join data from the real estate database and deal with duplicate parcels)
   - Started Rocky River for integrating interior boundaries into GIS
 
 ### Updates
@@ -24,21 +21,22 @@
   - Click-events built into MapBox not tested yet by Jeff
   - To do: re-examine Attraction icons and switch to match entries of Activities table from ITS. Attractions having a unique category is deprecated (which is a very good thing).
 
-### ADA
-  - ADA Transition Plan update passed to Headley in advance of publication - COMPLETE
-  - List of accessible restrooms sent to Greg and all other restrooms graded on accessibility - COMPLETE
+### PARK METRICS
+  - Creating abbreviate spreadsheets to send to various departments for data collection (Finance/HR/Outdoor Experiences/Marketing)
+  - Once requests are sent out to other departments, I'll input calcs from GIS (i.e. trail mileages, population estimate, etc)
+  - Trail mileage summaries by Reservation requested by Marketing, started with Mill Stream Run which they needed right away. Rest after the new year.
 
-### Marketing
-  - Pathfinder review - COMPLETE
+### NR
+  - Mapping out existing and proposed easements on NR server for Krynak and other NR staff to review. Also calculated impact to core area layer.
+  - 2021 Deer Management mailings will be coming up in January
 
-### Maps
-  - Trails: request for Hinckley Trail Signage maps using Fulcrum data - COMPLETE
-  - Mapped sinkhole location in Bedford - COMPLETE
+### Other Internal
+  - Rangers requested mappoint data, gps coordinates and names of locations across park district.
+  - Request from OE staff to map various features and related information in Bedford Reservation. Fulrcum form to be built once an account is set up for Jake.
 
 ### Outside request
-  - Translating trails inventory into ODNR format: at least 2/3 complete Just now hearing back from ODNR, sounds like they may have been changing things around on their end. Waiting for details and for app testing.
-  - Some coordination with LENSC about ADA improvements
-
+  - Translating trails inventory into ODNR format: still on hold, waiting for details from ODNR.
+  - Public request for USGS Topo maps, send a downloaded map of the area and some tips with how to acuire them from USGS's website
 
 ## Brandon
 
