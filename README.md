@@ -79,6 +79,9 @@ Onboarding buddy for Nate Hoover the new Land Conservation Coordinator (similar 
    * Deployed demonstration project to Dar es Salaam, Tanzania. Later deployment likely to Zanzibar
 * RFP Committee for new Cleveland Metroparks App now complete.
 
+### ODM360
+* First test deployment complete.
+
 ### Funding opportunities
 * None at this time
 
