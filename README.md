@@ -1,11 +1,5 @@
 # GIS Update
 
-## Major themes and developments
-* Land Protection Server now available to nearly all NR staff for review. Reviews due end of November
-* Cleveland Metroparks App RFP review complete
-* Updates to Cleveland Metroparks App to improve flow between search and map deployed to web, soon deployed to app store
-
-
 ## Tom
 ### P&D
   - Walk/bike-shed analysis for 2021. Need to update park access points w/Sara on 12/22. Loading latest ACS data to database.
@@ -16,7 +10,7 @@
 ### Updates
   - Switching geoserver data to reference the new database - IN PROGRESS
 
-## App (ALL SAME: will pick up in advance of developer beginning new app)
+## App
   - Ongoing trail/network updates, need to push an update to production server for routing network (primarily to add West Creek mountain bike trail w/the loops builder)
   - Click-events built into MapBox not tested yet by Jeff
   - To do: re-examine Attraction icons and switch to match entries of Activities table from ITS. Attractions having a unique category is deprecated (which is a very good thing).
@@ -78,7 +72,7 @@ Onboarding buddy for Nate Hoover the new Land Conservation Coordinator (similar 
 ## Stephen
 
 ### Infrastructure
-* Phase 1 roll out of Real Estate Land Protection layers. Connecting NR staff for review
+* Phase 1 roll out of Real Estate Land Protection layers. Connecting NR staff for review.
 * RE360 Camera project with Case Students completed. Now open sourced with partners from Humanitarian OpenStreetMap Team and World Bank involved in next phase of development.
    * Draft software complete
    * Draft hardware nearly complete
@@ -93,6 +87,4 @@ Onboarding buddy for Nate Hoover the new Land Conservation Coordinator (similar 
     * Work continues
 
 ## Upcoming Travel and Presentations
-* Serving on UN World Food Program Drone Committee
-* UN OpenDroneMap workshop successful
-* Attended DFGF seminar on longitudinal gorilla study
+* NCGIS presentation on algorithms developed for WB project
