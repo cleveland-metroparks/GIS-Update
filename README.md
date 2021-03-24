@@ -2,35 +2,34 @@
 
 ## Tom
 ### P&D
-  - Walk/bike-shed analysis for 2021. Need to update park access points w/Sara on 12/22. Loading latest ACS data to database.
+  - Walk/bike-shed analysis for 2021: 2018 ACS and 2021 Parcel data loaded to database. Tinkering with disaggregating latest ACS demographics into the latest residential parcel data for use in the analysis.
+  - Providing GIS support to Kelly/PROS for Strategic Plan work - ongoing
 
 ### Legal
-  - Started Rocky River for integrating interior boundaries into GIS
+  - Started Rocky River for integrating interior boundaries into GIS (on hold, no updates)
+  - Last meeting determined a couple layer changes to Land Protection Server: add EJA, style project areas by project type (connection vs preservation) - incomplete
+  - Set Nate up with Fulcrum, troubleshooting getting reservation boundaries updated in Fulcrum (old method is deprecated)
 
 ### Updates
-  - Switching geoserver data to reference the new database - IN PROGRESS
+  - Switching geoserver data to reference the new database - need to dig into NR, ADA, Historical Resources tabs (there's a lot of overlap between what's already completed from the main print server and land protection server pages)
 
 ## App
-  - Ongoing trail/network updates, need to push an update to production server for routing network (primarily to add West Creek mountain bike trail w/the loops builder)
-  - Click-events built into MapBox not tested yet by Jeff
-  - To do: re-examine Attraction icons and switch to match entries of Activities table from ITS. Attractions having a unique category is deprecated (which is a very good thing).
+  - New Attraction categories have been integrated into mapbox icon sets, notably the grouped icon sets which aggregate multiple attractions at a single park site
+  - Worked with Linsey on getting data for new attractions and filling in missing data from older attractions (i.e. GPS coordinates, IDs, Activities)
+  - To do: push trails/network data update, switch to block icons at all map scales for Attractions
 
 ### PARK METRICS
-  - Creating abbreviate spreadsheets to send to various departments for data collection (Finance/HR/Outdoor Experiences/Marketing)
-  - Once requests are sent out to other departments, I'll input calcs from GIS (i.e. trail mileages, population estimate, etc)
-  - Trail mileage summaries by Reservation requested by Marketing, started with Mill Stream Run which they needed right away. Rest after the new year.
+  - 2019 data was completed for Park Metrics by the February deadline
+  - Gold Medal Application data request has been compiled and input (2016 and 2020 numbers), only outstanding item is # of boat slips to be wrapped up asap
+  - Trail mileage summaries by Reservation still need to be sent to Marketing, will close this out
 
 ### NR
-  - Mapping out existing and proposed easements on NR server for Krynak and other NR staff to review. Also calculated impact to core area layer.
-  - 2021 Deer Management mailings will be coming up in January
-
-### Other Internal
-  - Rangers requested mappoint data, gps coordinates and names of locations across park district.
-  - Request from OE staff to map various features and related information in Bedford Reservation. Fulrcum form to be built once an account is set up for Jake.
+  - Data requests for First Energy, awaiting to hear back about data format they can use (not shapefiles)
+  - Need to organize a meeting with John, Pat and others to review the layers related to NR on the print server.
+  - Request for historical aerials, this will be a longer-term project but for starters CPL has agreed to send high resolution scans (over 300 maps which will need to be georeferenced and stitched together)
 
 ### Outside request
-  - Translating trails inventory into ODNR format: still on hold, waiting for details from ODNR.
-  - Public request for USGS Topo maps, send a downloaded map of the area and some tips with how to acuire them from USGS's website
+  - Need to create a new Fulcrum account for Jake with Outdoor Experiences instead of waiting to pass him an open seat
 
 ## Brandon
 
