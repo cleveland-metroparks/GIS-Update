@@ -33,18 +33,12 @@
 
 ## Brandon
 
-### Development
-- CM Total Acreage Map
-
-### Legal
-- Williams Property Drone Video
+### Planning Support
+* Emerald Necklace Gateway Design Packet
+* Red Line Greenway Shared Use Map
 
 ### Marketing / Media
 - Lakefront Reservation Trail Map
-- CMP Folded Map
-
-### Other
-Onboarding buddy for Nate Hoover the new Land Conservation Coordinator (similar to Isaac's old role)
 
 ## India
 
