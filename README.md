@@ -77,6 +77,8 @@
   * Launch of 3D Trailview Project	
   * Launch of FlyEye, a new sensor type replacing $20k camera types with $1-5k of parts, greater flexibility, and better quality optics
 
+-----------------------------------------------
+# Chiefs' meeting update
 
 ## Tom
 ### P&D
