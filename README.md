@@ -42,45 +42,29 @@
 
 ## India
 
-### Flights:
+#Infrastructure:
++ Updated and patched all the servers (weekly)
++ Working on using parallel-ssh to automate running update scripts 
++ Reviewed artillery and whitelist for servers
 
-+ Flying when possible to collect imagery for Dispatch navigation database
-
-### Infrastructure:
-
-+ Updated and patched all the servers
-
-### Programming:
-
-+ Fast.ai Deep Learning Course to support NR deep learning needs. May also augment OpenDroneMap initiatives.
-+ Developer courses through Coursera to sharpen Python skills
-+ Following up on request from Sarah E. to investigate why background map on nursery site is missing
-
-### Misc:
-
-+ Review existing imagery for Dispatch project
-+ New Pcard activation
-+ Followed up on request from Foster C. Brown for rock and mineral related imagery
+# Programming:
++ Researched relevant Linux certifications and classes; Will begin prepping 
++ Python and ML courses
++ Updated the framework for the Nursery Site Map and pulled din new nurseries
++ Fixed KNIME log analysis workflow
 
 ## Stephen
 
 ### Infrastructure
-* Phase 1 roll out of Real Estate Land Protection layers. Connecting NR staff for review.
-* RE360 Camera project with Case Students completed. Now open sourced with partners from Humanitarian OpenStreetMap Team and World Bank involved in next phase of development.
-   * Draft software complete
-   * Draft hardware nearly complete
-   * Deployed demonstration project to Dar es Salaam, Tanzania. Later deployment likely to Zanzibar
-* RFP Committee for new Cleveland Metroparks App now complete.
-
-### ODM360
-* First test deployment complete.
-
-### Funding opportunities
-* None at this time
+* Testing print-to-pdf functionality for Land Protection Datavase
+* maps-api work complete for phase 1 of mobile app development
 
 ### Funding
 * In contract for $42,000 work with World Bank TZ extending previous work for datasets for flood innundation modeling from OpenDroneMap
-    * Work continues
+    * Work continues.
+    * Data refinement phase + waiting for addition data from WB team
+    * New invoice issued
 
-## Upcoming Travel and Presentations
+## Upcoming and Past Travel and Presentations
 * NCGIS presentation on algorithms developed for WB project
+* Upcoming European Geospatial Union presentation
