@@ -2,7 +2,7 @@
 
 ## 2020 Highlights
 ### Tom Kraft
-#### Field data collection, deep analysis, mapping, database adminstration
+#### Field data collection, deep analysis, mapping, database administration
 * Land Protection Server: added about 15 new layers for use in the Land Protection GIS server	
 * Transition Plan Updates: 260 facilities updated with gps coordinates and ADA updates where corrective actions have been taken
 * PostGIS database: over 300 tables across 8 schemas used in production
