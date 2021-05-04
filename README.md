@@ -124,14 +124,24 @@
 
 #Infrastructure:
 + Updated and patched all the servers (weekly)
-+ Working on using parallel-ssh to automate running update scripts 
-+ Reviewed artillery and whitelist for servers
++ VMWare Review
+
+# Presentations
++ Hosted Stats Lunch
+
+# Drone Flights
++ Sanctuary Marsh at NC for invasive detection
++ Ship unloading at dock near Wendy Park as part of request from Doug Kusak
++ Wendy Park Bridge installation
+
+# Administration
++ Reapplied for County Airport Wide Area
++ Transferred drone registrations under Steve to my account
 
 # Programming:
 + Researched relevant Linux certifications and classes; Will begin prepping 
 + Python and ML courses
-+ Updated the framework for the Nursery Site Map and pulled din new nurseries
-+ Fixed KNIME log analysis workflow
+
 
 ## Stephen
 
