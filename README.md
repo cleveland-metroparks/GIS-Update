@@ -114,11 +114,18 @@
 ## Brandon
 
 ### Planning Support
-* Emerald Necklace Gateway Design Packet
-* Red Line Greenway Shared Use Map
+* Garfield Park short term improvement map
+* E.72nd kiosk/sign maps
+* Brighton Park kiosk map
+* Wendy Park kiosk map
+* Red Line Greenway shared use maps (4)
+* Towpath easements map(s)
+* Zoo map update
+* Tiger map updates (3)
 
 ### Marketing / Media
 - Lakefront Reservation Trail Map
+- Mill Stream Run Trail Map
 
 ## India
 
