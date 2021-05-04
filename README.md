@@ -122,23 +122,23 @@
 
 ## India
 
-#Infrastructure:
+### Infrastructure:
 + Updated and patched all the servers (weekly)
 + VMWare Review
 
-# Presentations
+### Presentations
 + Hosted Stats Lunch
 
-# Drone Flights
+### Drone Flights
 + Sanctuary Marsh at NC for invasive detection
 + Ship unloading at dock near Wendy Park as part of request from Doug Kusak
 + Wendy Park Bridge installation
 
-# Administration
+### Administration
 + Reapplied for County Airport Wide Area
 + Transferred drone registrations under Steve to my account
 
-# Programming:
+### Programming:
 + Researched relevant Linux certifications and classes; Will begin prepping 
 + Python and ML courses
 
