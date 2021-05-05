@@ -66,16 +66,7 @@
 
 ## Stephen
 
-### Infrastructure
-* Testing print-to-pdf functionality for Land Protection Datavase
-* maps-api work complete for phase 1 of mobile app development
-
-### Funding
-* In contract for $42,000 work with World Bank TZ extending previous work for datasets for flood innundation modeling from OpenDroneMap
-    * Work continues.
-    * Data refinement phase + waiting for addition data from WB team
-    * New invoice issued
-
-## Upcoming and Past Travel and Presentations
-* NCGIS presentation on algorithms developed for WB project
-* Upcoming European Geospatial Union presentation
+### Overviews
+* Generating overviews of infrastructure, personel, short and mid-term challenges and opportunities
+* Attempting to finish our Land Protection print-to-pdf
+* Closing out WB project
